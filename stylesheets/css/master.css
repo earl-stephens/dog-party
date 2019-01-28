@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+}
+header {
+  background-color: turquoise;
+  text-align: right;
+}
+header img {
+  width: 25px;
+  float: left;
+  padding: 20px;
+}
+img {
+  border-radius: 50%;
+}
+footer {
+  background-color: deepskyblue;
+  text-align: center;
+}
+.CTA {
+  background: url('../images/park.jpg');
+  background-size: cover;
+  text-align: center;
+}
+.center_section {
+  display: inline;
+}
+.left {
+  text-align: left;
+}
+.center {
+  text-align: center;
+}
+.right {
+  text-align: right;
+}
